@@ -13,6 +13,18 @@ A full-stack web application for intelligent chat management and conversation an
 - **Sentiment Analysis**: Analyze conversation tone and sentiment
 - **Key Points Extraction**: Automatically extract important points from conversations
 
+
+
+### Screenshots
+
+| Register         | ![Register](register.png)  
+| Login            | ![Login](login.png)  
+| Conversation     | ![Conversation](conver.png)  
+| Dashboard        | ![Dasboard](dashboard.png)  
+| Chat             | ![Chat](chat.png) 
+| Analysis         | ![Analysis](intellingence.png)  
+
+
 ### UI/UX Features
 - Modern, responsive chat interface (similar to ChatGPT/Claude)
 - Intuitive conversation dashboard
