@@ -17,12 +17,12 @@ A full-stack web application for intelligent chat management and conversation an
 
 ### Screenshots
 
-| Register         | ![Register](register.png)  
-| Login            | ![Login](login.png)  
-| Conversation     | ![Conversation](conver.png)  
-| Dashboard        | ![Dasboard](dashboard.png)  
-| Chat             | ![Chat](chat.png) 
-| Analysis         | ![Analysis](intellingence.png)  
+| Register         | ![Register](image/register.png)  
+| Login            | ![Login](image/login.png)  
+| Conversation     | ![Conversation](image/conver.png)  
+| Dashboard        | ![Dasboard](image/dashboard.png)  
+| Chat             | ![Chat](image/chat.png) 
+| Analysis         | ![Analysis](image/intellingence.png)  
 
 
 ### UI/UX Features
