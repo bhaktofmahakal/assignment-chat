@@ -22,7 +22,7 @@ A full-stack web application for intelligent chat management and conversation an
 | Conversation     | ![Conversation](image/conver.png)  
 | Dashboard        | ![Dasboard](image/dashboard.png)  
 | Chat             | ![Chat](image/chat.png) 
-| Analysis         | ![Analysis](image/intellingence.png)  
+| Analysis         | ![Analysis](image/intelligence.png)  
 
 
 ### UI/UX Features
