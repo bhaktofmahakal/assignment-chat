@@ -1,0 +1,1 @@
+# Chat Portal Django Project
